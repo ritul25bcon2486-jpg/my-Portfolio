@@ -4,9 +4,11 @@
   var MAX_MESSAGE_LENGTH = 500;
   var HISTORY_TURNS = 6;
   var STARTERS = [
-    "What projects have you completed?",
+    "Who is Ritul?",
+    "What skills does he have?",
+    "What projects has he completed?",
     "What was corrected in the buggy code project?",
-    "Explain your Python programs.",
+    "How can I contact him?",
   ];
 
   var history = [];
